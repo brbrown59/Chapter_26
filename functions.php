@@ -4,8 +4,8 @@
 	//DO NOT COMMIT THESE WITH VALUES ENTERED!!!!
 	//log-in details for database
 	$dbhost = 'localhost';
-	$dbname = '';
-	$dbuser = '';
+	$dbname = 'bbrown52';
+	$dbuser = 'bbrown52';
 	$dbpass = '';
 	$appname = "The Project";
 

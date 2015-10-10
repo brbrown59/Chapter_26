@@ -5,5 +5,7 @@
 	else echo "Please sign up or log in to join us";
 ?>
 </span><br><br>
+
+<!-- these tags are opened in header.php-->
 </body>
 </html>
