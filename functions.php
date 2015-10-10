@@ -40,7 +40,7 @@
 	}
 
 	//sanitize any inputs
-	function santitizeString($var)
+	function sanitizeString($var)
 	{
 		global $connection;
 		$var = strip_tags($var);
