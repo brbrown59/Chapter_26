@@ -27,6 +27,7 @@
 			{
 				$_SESSION['user'] = $user;
 				$_SESSION['pass'] = $pass;
+				//sets view to "user", which will display user profile upon call of members.php
 				die("You are now logged in.  Please <a href='members.php?view=$user'>" . "click here</a> to continue.<br><br>");
 
 			}
