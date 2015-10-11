@@ -3,7 +3,7 @@
 	//set up session; will remember values to be shared across files
 	session_start();
 
-	//
+	//these tags are closed by each of the other files in this project as needed
 	echo "<!DOCTYPE html>\n<html><head>";
 
 	//makes sure all files have access to the functions
